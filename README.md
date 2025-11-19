@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/license/kfurtak1024/hal9000-conky"/></a>
 </p>
 
-A **HAL 9000** inspired **Conky theme** for monitoring system resources on Linux.
+A **HAL 9000** inspired **Conky theme** for monitoring system resources on my Linux machine.
 
 ## ✨ Features
 
