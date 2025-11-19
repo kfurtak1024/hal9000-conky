@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/github/license/kfurtak1024/hal9000-conky"/></a>
 </p>
 
-A HAL 9000 inspired Conky theme for monitoring system resources on Linux.
+A **HAL 9000** inspired **Conky theme** for monitoring system resources on Linux.
 
-## Features
+## ✨ Features
 
 - **CPU:** Temperature, Fan Speed, Usage, Clock Speed, and Process List
 - **Memory:** RAM/Swap Usage and Process List
@@ -16,7 +16,7 @@ A HAL 9000 inspired Conky theme for monitoring system resources on Linux.
 - **Storage:** Disk I/O, Temperature (for NVMe drives), and Filesystem Usage
 - **Network:** IP Address, Download/Upload Speed, and Total Data Transferred
 
-## Dependencies
+## 🧩 Dependencies
 
 - **[Conky](https://github.com/brndnmtthws/conky)**
 - **[Lua](https://www.lua.org/)** (usually included with Conky)
@@ -24,7 +24,7 @@ A HAL 9000 inspired Conky theme for monitoring system resources on Linux.
 - **NVIDIA Drivers** (for GPU monitoring)
 - **Fonts:** `DejaVu Sans Mono` and `JetBrainsMono`
 
-## Installation
+## 🛠️ Installation
 
 1. Clone this repository:
    ```bash
@@ -39,7 +39,7 @@ A HAL 9000 inspired Conky theme for monitoring system resources on Linux.
 
    The script will copy the necessary files to `~/.config/conky/hal9000` and ask if you want to launch Conky at startup.
 
-## Usage
+## ▶️ Usage
 
 After installation, you can launch the Conky theme by running:
 ```bash
@@ -47,7 +47,7 @@ After installation, you can launch the Conky theme by running:
 ```
 If you enabled autostart during installation, it will launch automatically on your next login.
 
-## Configuration
+## ⚙️ Configuration
 
 The Conky configuration is located at `~/.config/conky/hal9000/conky.conf`. You may need to edit this file to match your hardware:
 
@@ -57,6 +57,6 @@ The Conky configuration is located at `~/.config/conky/hal9000/conky.conf`. You 
 
 The Lua script at `~/.config/conky/hal9000/hal9000.lua` contains the logic for fetching much of the data. You may need to edit this file for your specific setup.
 
-## License
+## ⚖️ License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
