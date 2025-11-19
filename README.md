@@ -10,6 +10,8 @@ A **HAL 9000** inspired **Conky theme** for monitoring system resources on Linux
 
 ## ✨ Features
 
+<img src="https://github.com/kfurtak1024/hal9000-conky/raw/main/images/screenshot.png" alt="HAL9000 Conky" align="right" style="margin-left: 15px; height: 180px; ">
+
 - **CPU:** Temperature, Fan Speed, Usage, Clock Speed, and Process List
 - **Memory:** RAM/Swap Usage and Process List
 - **GPU:** (NVIDIA) Temperature, Fan Speed, Utilization, Power Draw, and VRAM Usage
